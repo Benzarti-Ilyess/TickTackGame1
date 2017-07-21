@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TickTackGame1</string>
+    <string name="selection">Select a player Mode</string>
+    <string name="vs_player">VS Player</string>
+    <string name="vs_android">VS Android</string>
+    <string name="close">close</string>
+    <string name="restart">restart game</string>
+    <string name="red">Player Red is the winner</string>
+    <string name="blue">Player Blue is the winner</string>
+    <string name="tie">It\'s a tie !!!!!</string>
+</resources>

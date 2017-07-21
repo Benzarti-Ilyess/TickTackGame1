@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jeutickTack</string>
+    <string name="selection">selectionez le mode de jeu</string>
+    <string name="vs_player">Contre joueur</string>
+    <string name="vs_android">Contre Android</string>
+    <string name="close">fermez</string>
+    <string name="restart">rejouez</string>
+    <string name="red">Le joueur Rouge est vaincant</string>
+    <string name="blue">Le joueur Blue est vaincant</string>
+    <string name="tie">aucun joueur a gangné !!!</string>
+</resources>
